@@ -19,7 +19,7 @@ font-family: Georgia, serif  ;
 }
 .video{
 background-color: transparent;
-width: 700px;
+width: 95px;
 margin-left: 400px;
 align-items: center;
 animation: running-light 1s infinite alternate; 
@@ -44,7 +44,7 @@ input[type="submit"]{
     margin-top: 30px;
     background-color: transparent;
     color:white;
-    margin-right: 80px;
+    margin-right: -3px;
     cursor: pointer;
     font-family: Georgia, serif  ;
     animation: running-light 1s infinite alternate; 
